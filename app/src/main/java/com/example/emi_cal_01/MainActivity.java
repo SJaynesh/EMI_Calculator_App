@@ -57,13 +57,13 @@ public class MainActivity extends AppCompatActivity {
                     txtyear.setText(year + "");
                     txttotal.setText(EMI + "");
 
-                    Toast.makeText(MainActivity.this, amount + " " + rate + " " + year, Toast.LENGTH_SHORT).show();
+//                    Toast.makeText(MainActivity.this, amount + " " + rate + " " + year, Toast.LENGTH_SHORT).show();
 
                     Toast.makeText(MainActivity.this, "Total EMI : " + EMI, Toast.LENGTH_SHORT).show();
 
-                    edtamount.setText(" ");
-                    edtrate.setText(" ");
-                    edtyear.setText(" ");
+//                    edtamount.setText(" ");
+//                    edtrate.setText(" ");
+//                    edtyear.setText(" ");
 
                 }
 
